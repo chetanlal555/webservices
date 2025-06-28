@@ -10,3 +10,4 @@ logistics
 srp
 tech
 r&d
+l&d
