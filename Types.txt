@@ -1,2 +1,6 @@
 Soap Webservices
 Rest Webservices
+
+Types of Authorization to be implemented:
+Basic
+Oauth2.0
